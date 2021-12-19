@@ -3,7 +3,7 @@ import React from "react";
 import { AiFillGithub, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
 import { GiTie } from "react-icons/gi";
 import { GoLocation } from "react-icons/go";
-import avatar from "../images/avatar.png";
+import avatar from "../public/images/avatar.png";
 
 const Sidebar = () => {
   return (
